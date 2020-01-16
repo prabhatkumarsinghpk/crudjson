@@ -1,0 +1,66 @@
+[
+    {
+        "firstname": "Jhon",
+        "lastname": "Smith",
+        "phones": "(111) 222-1212",
+        "email": "jhon@smith.ios",
+        "role": "0"
+    },
+    {
+        "id": "0xed4zaIxl",
+        "phones": "(222) 111-2222",
+        "username": "shirley",
+        "email": "shirley@Green.com",
+        "firstname": "Shirley",
+        "lastname": "Green",
+        "role": 2,
+        "isActive": false,
+        "_created_at": "2018-11-09T00:29:20.561+0000",
+        "_updated_at": "2019-12-12T01:13:38.869+0000"
+    },
+    {
+        "_id": "1LsGd1Q2U3",
+        "phones": "(212) 121-0977",
+        "username": "williams",
+        "email": "williams@lynne.com",
+        "firstname": "Lynne",
+        "lastname": "Williams",
+        "role": 0,
+        "isActive": true,
+        "_created_at": "2019-10-15T16:54:02.597+0000",
+        "_updated_at": "2019-12-31T02:41:32.212+0000"
+    },
+    {
+        "_id": "1b5jDtgSS0",
+        "phones": "(956) 867-2041",
+        "username": "andrea",
+        "email": "andrea@williams.com",
+        "firstname": "Andrea",
+        "lastname": "Williams",
+        "role": 1,
+        "isActive": false,
+        "_created_at": "2018-10-16T19:24:03.358+0000",
+        "_updated_at": "2019-06-05T19:37:29.464+0000"
+    },
+    {
+        "firstname": "Bobby",
+        "lastname": "Brookins",
+        "phones": "(121) 421-7027",
+        "email": "bobby@helper.coza",
+        "role": "4"
+    },
+    {
+        "firstname": "Linda",
+        "lastname": "Millard",
+        "phones": "(121) 421-4375",
+        "email": "millard@linda.com",
+        "role": "2"
+    },
+    {
+        "firstname": "Robert",
+        "lastname": "Emery",
+        "phones": "(121) 212-421",
+        "email": "emery@robert.com",
+        "role": "4"
+    }
+]
